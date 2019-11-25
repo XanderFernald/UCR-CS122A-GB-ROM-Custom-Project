@@ -1,3 +1,11 @@
+/*
+
+This code is for a sprite and input testing ROM. 
+There are 2 sprites, both contained within Face.c and Face.h.
+The switch statement provides cases for D pad and A button inputs.
+
+*/
+
 #include <gb/gb.h>
 #include <stdio.h>
 #include "Face.c"
