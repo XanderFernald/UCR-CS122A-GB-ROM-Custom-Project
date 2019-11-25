@@ -3,7 +3,7 @@ My first attempts at Gameboy ROM(s) for my Intermediate Embedded Systems class a
 
 Each folder is a VS Code workspace for a ROM which tests some aspect(s) of GameBoy programming. The files with the .gb extensions are the compiled ROMs.
 
-This project uses the GBDK (GameBoy Developer Toolkit) to write these ROMs, as well as the BGB emulator to test them.
+This project uses the GBDK (GameBoy Developer Kit) to write these ROMs, as well as the BGB emulator to test them.
 
 GBDK Link: https://sourceforge.net/projects/gbdk/
 
